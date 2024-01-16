@@ -1,1 +1,1 @@
-# Trained_Basic_GAN_Pytorch
+# Trained basic GAN from scratch using Pytorch
